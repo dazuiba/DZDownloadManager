@@ -1,0 +1,12 @@
+.DS_Store
+build/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+profile
+xcuserdata
+Api.h
+redis-dump.rdb
+.svn
+Classes/others/version.h

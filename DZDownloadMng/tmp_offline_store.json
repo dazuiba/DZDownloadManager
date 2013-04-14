@@ -1,0 +1,38 @@
+{
+    "items": [
+             {
+              "title": "杭州",
+              "uid": "hangzhou",
+              "url": "http://api.aiting.me/system/feed_items/40001-42000/41270/f193353f61.mp3",
+              "fileSize": 3145728,
+              "center": [31.1,122.1],
+              "span": [1.1,2.2]
+             },
+             {
+              "title": "成都",
+              "uid": "hangzhou2",
+              "url": "http://api.aiting.me/system/feed_items/40001-42000/41270/f193353f61.mp3",
+              "fileSize": 3145728,
+              "center": [31.1,122.1],
+              "span": [1.1,2.2]
+              },
+              
+              {
+              "title": "济南",
+              "uid": "hangzhou3",
+              "url": "http://api.aiting.me/system/feed_items/40001-42000/41270/f193353f61.mp3",
+              "fileSize": 3145728,
+              "center": [31.1,122.1],
+              "span": [1.1,2.2]
+              },
+              
+              {
+              "title": "北京",
+              "uid": "hangzhou4",
+              "url": "http://api.aiting.me/system/feed_items/40001-42000/41270/f193353f61.mp3",
+              "fileSize": 3145728,
+              "center": [31.1,122.1],
+              "span": [1.1,2.2]
+              }
+]
+}
